@@ -13,7 +13,7 @@
 -the stakes become even more dangerous, forcing him to discover what it truly means 
 -to be Spider-Man.
 
-
+![](/images/nwh1.jpg)
 
 ### [Project 2: Synopsis IMDB](https://www.imdb.com/title/tt10872600/)
 
@@ -22,3 +22,5 @@
 -high stakes of being a superhero. When Peter asks for help from Doctor Strange, 
 -the stakes become even more dangerous, forcing him to discover what it truly means 
 -to be Spider-Man.
+
+![](/images/nwh1.jpg)
