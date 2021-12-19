@@ -1,5 +1,5 @@
 # prithwi
-### Example Data Science
+### Movie Preview
 
 ## Education
 
